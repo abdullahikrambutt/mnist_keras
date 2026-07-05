@@ -1,4 +1,3 @@
-# mnist_keras
 
 # MNIST Handwritten Digit Classification with Keras/TensorFlow
 
