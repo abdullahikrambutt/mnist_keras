@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model/output artifacts
+outputs/*
+!outputs/.gitkeep
+*.keras
+*.h5
+*.hdf5
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
