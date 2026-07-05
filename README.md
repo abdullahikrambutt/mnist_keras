@@ -1,7 +1,10 @@
-
 # MNIST Handwritten Digit Classification with Keras/TensorFlow
 
 A clean, GitHub-ready recreation of an MNIST deep learning notebook using modern `tensorflow.keras` APIs.
+
+![Python](https://img.shields.io/badge/python-%3E%3D3.10-blue)
+
+This project runs on **Python 3.10 or newer**.
 
 This project trains two models on the MNIST handwritten digit dataset:
 
